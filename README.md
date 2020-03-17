@@ -4,8 +4,8 @@ What I want to do and I am going to accomplish in 2020
 
 ## Technologies
 
-- [ ] Master some unix tools
-- [ ] Master git
+- [ ] [Learn vim](vim.md)
+- [ ] Learn git
 - [ ] Better at C#/.NET development
 
 ## Books
@@ -13,12 +13,12 @@ What I want to do and I am going to accomplish in 2020
 Read at least 2 books per month
 
 - [x] Factfulness
-- [ ] Building Microservices: Designing Fine-Grained Systems
+- [x] Building Microservices: Designing Fine-Grained Systems
 
 ## Life
 
 - [ ] Buy an apartment
-  - [ ] Offer accepted
+  - [x] Offer accepted
   - [ ] Compromis signed
   - [ ] Loan request accepted
   - [ ] <i>L'Acte authentique</i> signed  
